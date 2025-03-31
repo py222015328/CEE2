@@ -1,2 +1,2 @@
-# CEE2_
+# CEE2
 Essas são as minhas aulas da disciplina
